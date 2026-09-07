@@ -102,7 +102,7 @@ Egypt-Real-Estate-Market-Analysis/
 │   └── Egypt Real Estate Data.csv
 │   └── Egypt Real Estate Cleaning Data.csv
 │
-├── powerbi/
+├── PowerBI Dashboard/
 │   └── Egypt Real Estate Market Analysis.pbix
 │
 ├── images/
@@ -111,10 +111,11 @@ Egypt-Real-Estate-Market-Analysis/
 │   ├── Property Analysis.png
 │   └── Agent & Broker Analysis.png
 │
-├── notebooks/
+├── Notebooks/
 │   └── Data Cleaning and Preparation.ipynb
 │
-└── README.md
+├── README.md
+└── LICENSE
 ```
 
 
